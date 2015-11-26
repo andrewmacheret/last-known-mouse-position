@@ -1,6 +1,6 @@
 # last-known-mouse-position
 
-A webpage that tracks and shows your current mouse position using [jQuery](https://jquery.com/) and [Highmaps](http://www.highcharts.com/products/highcharts). Not very useful. Not very pretty.
+A webpage that tracks and shows a graph of your current mouse position using [jQuery](https://jquery.com/) and [Highmaps](http://www.highcharts.com/products/highcharts). Not very useful. Not very pretty.
 
 See it running at [http://andrewmacheret.com/projects/last-known-mouse-position](http://andrewmacheret.com/projects/last-known-mouse-position).
 
